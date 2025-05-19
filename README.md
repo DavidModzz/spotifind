@@ -7,7 +7,7 @@ This is a client for the Spotify API that allows searching for artists, albums, 
 Before starting, make sure you have [Node.js](https://nodejs.org/) installed. Then, clone the repository and install dependencies:
 
 ```bash
-npm install
+npm install spotifind
 ````
 
 ## Configuration
